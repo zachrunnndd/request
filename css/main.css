@@ -37,6 +37,7 @@ body {
 }
 
 .flower {
+  color: pink;
   position: absolute;
   bottom: 10vmin;
   transform-origin: bottom center;
